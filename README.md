@@ -1,6 +1,9 @@
 ### Hi there I'm Martin 👋
 
-I'm a passionate Frontend Software Engineer based in Toulouse, France, specializing in crafting complex web applications.
+I'm a passionate **Frontend Software Engineer** based in Toulouse, France, specializing in crafting complex web applications.
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/martinmallein/)
+&nbsp;
 
 ## 🚀 About Me
 - 🔭 I’m currently open to contract job offers or permanent positions.
